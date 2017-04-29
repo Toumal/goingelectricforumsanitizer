@@ -18,7 +18,7 @@ To install the extension follow the following steps:
 
 Usage
 -----
-A new extension icon should appear on the top bar of chrome (the globe), clicking it will allow you to enable a number of extension options. Once you have enabled an option you will need to reload the page for them to take effect.
+A new extension icon should appear on the top bar of chrome (the muppet), clicking it will allow you to enable a number of extension options. Once you have enabled an option you will need to reload the page for them to take effect.
 
 ![Screenshot](forumsanitizer.png)
 
