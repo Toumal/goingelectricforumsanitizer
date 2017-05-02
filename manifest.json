@@ -6,13 +6,13 @@
   "version": "1.0",
 
   "permissions": [
-    "https://www.goingelectric.de/*",
+    "*://www.goingelectric.de/*",
     "storage"
   ],
 
   "content_scripts": [
     {
-      "matches":["https://www.goingelectric.de/*"],
+      "matches":["*://www.goingelectric.de/*"],
       "js":["js/input.js"]
     }
   ],
