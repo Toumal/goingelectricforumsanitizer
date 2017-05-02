@@ -42,7 +42,7 @@ window.onload = function(){
 	storage.get('filterwords', function(result){
         var word = result['filterwords'];
 		if (word === undefined) {
-			word = 'PvP, griefer, griefing, steam';
+			word = '';
 		}
         var word_box = document.getElementById('word');
         word_box.value = word;
