@@ -3,7 +3,7 @@
 
   "name": "GoingElectric Forum Sanitizer",
   "description": "Removes unwanted discussions based on content and/or user, and unlike the ignore function it completely hides offending content.",
-  "version": "1.0",
+  "version": "1.1",
 
   "permissions": [
     "*://www.goingelectric.de/*",
